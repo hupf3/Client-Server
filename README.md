@@ -1,4 +1,4 @@
 # Client-Server
 
-C for Client-Server
+MacOS / Linux：C for Client-Server
 
